@@ -29,7 +29,7 @@ To write an 8051 assembly language program to generate a 2-second delay using Ti
 ---
 
 ## FLOWCHART
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/7623734a-0bb4-4d74-aa99-956f7edaee4e" />
+<img width="311" height="467" alt="image" src="https://github.com/user-attachments/assets/abb8f483-7508-4fdb-a9cb-1a10b4d1abba" />
 
 
 ---
@@ -64,7 +64,7 @@ END
 ```
 OUTPUT
 
-![WhatsApp Image 2025-10-24 at 20 56 59_79448ff2](https://github.com/user-attachments/assets/4bab6e30-9b65-41fb-aae3-454cf873a4b8)
+<img width="488" height="278" alt="image" src="https://github.com/user-attachments/assets/32d16a3f-4b7d-4edb-bcf2-73d8b43ef147" />
 
 
 ![WhatsApp Image 2025-10-24 at 20 54 15_d6673472](https://github.com/user-attachments/assets/fe71260e-547f-4185-b673-1e13f2a1d5c4)
